@@ -94,18 +94,20 @@ img{
 .assignment{
   font-size: 20pt;
   position: relative;
-  top: 54%;
+  top: -195%;
   left: 20%;
   z-index: 50;
+  color: #f2f2f2;
 
 }
 
 .name{
   font-size: 40pt;
   position: relative;
-  top: 54%;
+  top: -195%;
   left: 23%;
   z-index: 50;
+  color: #f2f2f2;
 }
 
 .pentagon_container_L {
