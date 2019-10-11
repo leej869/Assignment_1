@@ -109,6 +109,13 @@ img{
   color: #f2f2f2;
 }
 
+.progress{
+  position: relative;
+  top: -168%;
+  z-index: 100;
+  left: 46%;
+}
+
 .pentagon_container_L {
   width: 25%;
   height: 500px;
